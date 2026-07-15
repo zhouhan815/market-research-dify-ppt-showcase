@@ -13,14 +13,6 @@
 | 脱敏示例输入文件 | [sample_input/synthetic_concept_test_data.xlsx](sample_input/synthetic_concept_test_data.xlsx) |
 | 最终生成 PPT | [sample_output/generated_demo_market_research_report.pptx](sample_output/generated_demo_market_research_report.pptx) |
 
-
-![Dify 工作流全景预览](assets/dify-workflow-overview.jpeg)
-
-<details>
-<summary>查看完整纵向 Dify 工作流截图</summary>
-
-</details>
-
 ## 项目亮点
 
 - 将市场研究报告撰写拆解为 8 个环节：Excel 解析、证据标准化、分析矩阵构建、洞察生成、Slide Spec 生成、内容 QA、PPTX 渲染、下载交付。
