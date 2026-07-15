@@ -12,6 +12,16 @@
 | Dify 工作流全景预览 | [assets/dify-workflow-overview.jpeg](assets/dify-workflow-overview.jpeg) |
 | 脱敏示例输入文件 | [sample_input/synthetic_concept_test_data.xlsx](sample_input/synthetic_concept_test_data.xlsx) |
 | 最终生成 PPT | [sample_output/generated_demo_market_research_report.pptx](sample_output/generated_demo_market_research_report.pptx) |
+<video src="assets/demo-recording.mp4" controls width="900"></video>
+
+![Dify workflow panorama preview](assets/dify-workflow-overview.jpeg)
+
+<details>
+<summary>View the full vertical Dify workflow screenshot</summary>
+
+![Full Dify workflow screenshot](assets/dify-workflow-full.jpeg)
+
+</details>
 
 ## 项目亮点
 
