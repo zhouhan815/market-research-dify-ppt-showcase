@@ -19,8 +19,6 @@
 <details>
 <summary>查看完整纵向 Dify 工作流截图</summary>
 
-![完整 Dify 工作流截图](assets/dify-workflow-full.jpeg)
-
 </details>
 
 ## 项目亮点
